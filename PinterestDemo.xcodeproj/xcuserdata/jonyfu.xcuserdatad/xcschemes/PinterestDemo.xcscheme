@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8895A0991B9ABE580001EF7A"
-               BuildableName = "PinterestDemo.app"
+               BuildableName = "CustomCollectionPractice.app"
                BlueprintName = "PinterestDemo"
                ReferencedContainer = "container:PinterestDemo.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8895A0AE1B9ABE590001EF7A"
-               BuildableName = "PinterestDemoTests.xctest"
+               BuildableName = "CustomCollectionPracticeTests.xctest"
                BlueprintName = "PinterestDemoTests"
                ReferencedContainer = "container:PinterestDemo.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8895A0AE1B9ABE590001EF7A"
-               BuildableName = "PinterestDemoTests.xctest"
+               BuildableName = "CustomCollectionPracticeTests.xctest"
                BlueprintName = "PinterestDemoTests"
                ReferencedContainer = "container:PinterestDemo.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8895A0991B9ABE580001EF7A"
-            BuildableName = "PinterestDemo.app"
+            BuildableName = "CustomCollectionPractice.app"
             BlueprintName = "PinterestDemo"
             ReferencedContainer = "container:PinterestDemo.xcodeproj">
          </BuildableReference>
@@ -77,7 +77,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8895A0991B9ABE580001EF7A"
-            BuildableName = "PinterestDemo.app"
+            BuildableName = "CustomCollectionPractice.app"
             BlueprintName = "PinterestDemo"
             ReferencedContainer = "container:PinterestDemo.xcodeproj">
          </BuildableReference>
@@ -96,7 +96,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8895A0991B9ABE580001EF7A"
-            BuildableName = "PinterestDemo.app"
+            BuildableName = "CustomCollectionPractice.app"
             BlueprintName = "PinterestDemo"
             ReferencedContainer = "container:PinterestDemo.xcodeproj">
          </BuildableReference>

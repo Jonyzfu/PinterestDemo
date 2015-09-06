@@ -20,9 +20,9 @@
 	</dict>
 	<dict>
 		<key>Caption</key>
-		<string>Kingsman: The Secret Service</string>
+		<string>Man of Steel</string>
 		<key>Comment</key>
-		<string>A veteran secret agent takes a young upstart under his wing.</string>
+		<string>Clark Kent is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.</string>
 		<key>Photo</key>
 		<string>03</string>
 	</dict>
@@ -60,9 +60,9 @@
 	</dict>
 	<dict>
 		<key>Caption</key>
-		<string>Monsters, Inc.</string>
+		<string>The Chronicles of Narnia</string>
 		<key>Comment</key>
-		<string>In order to power the city, monsters have to scare children so that they scream.</string>
+		<string>Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.</string>
 		<key>Photo</key>
 		<string>08</string>
 	</dict>
@@ -84,9 +84,9 @@
 	</dict>
 	<dict>
 		<key>Caption</key>
-		<string>Furious 7</string>
+		<string>Quantum of Solace</string>
 		<key>Comment</key>
-		<string>Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.</string>
+		<string>James Bond descends into mystery as he tries to stop a mysterious organization from eliminating a country&apos;s most valuable resource.</string>
 		<key>Photo</key>
 		<string>11</string>
 	</dict>
